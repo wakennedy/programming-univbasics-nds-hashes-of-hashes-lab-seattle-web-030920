@@ -32,7 +32,7 @@
 
 #def naming_system
   # Remember:
-  :Kingdom=> {
+  :Kingdom => {
     :Phylum => {
       :Class => {
         :Order => {
