@@ -33,7 +33,7 @@
 def naming_system
   {
   :kingdom => {
-    
+    label: 
     :phylum => {
       :class => {
         :order => {
