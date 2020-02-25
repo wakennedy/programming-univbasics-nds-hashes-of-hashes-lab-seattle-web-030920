@@ -32,13 +32,13 @@
 
 #def naming_system
   # Remember:
-  :Kingdom => {
-    :Phylum => {
-      :Class => {
-        :Order => {
-          :Family => {
-            :Genus => {
-              :Species => {
+  :Kingdom = {
+    :Phylum = {
+      :Class = {
+        :Order = {
+          :Family = {
+            :Genus = {
+              :Species = {
                 
               }
             }
