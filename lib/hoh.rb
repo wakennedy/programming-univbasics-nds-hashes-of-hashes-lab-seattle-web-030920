@@ -39,7 +39,6 @@ def naming_system
           Family => {
             Genus => {
               Species => {
-                
               }
             }
           }
