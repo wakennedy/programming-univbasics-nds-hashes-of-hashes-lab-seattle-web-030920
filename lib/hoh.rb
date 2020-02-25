@@ -32,13 +32,13 @@
 
 def naming_system
   {
-  Kingdom = {
-    Phylum = {
-      Class = {
-        Order = {
-          Family = {
-            Genus = {
-              Species = {
+  :kingdom = {
+    :phylum = {
+      :class = {
+        :order = {
+          :family = {
+            :genus = {
+              :species = {
               }
             }
           }
