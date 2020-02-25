@@ -52,17 +52,6 @@ def naming_system
 end
 
 
-def naming_system 
-  {
-    :Kingdom =>{
-      :phyl
-    }
-    
-    
-  }
-end
-
-
 
 
 
