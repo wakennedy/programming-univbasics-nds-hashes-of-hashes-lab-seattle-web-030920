@@ -30,9 +30,12 @@
 #   sub_category: nil
 # }
 
-#def naming_system
+def naming_system
+  {
+    
+  
   # Remember:
-  :Kingdom  {
+  Kingdom  {
     :Phylum = {
       :Class = {
         :Order = {
@@ -48,11 +51,11 @@
     }
   }
   
-          
+}       
   # So, if we have the "Kingdom" node we should be able to "tunnel" into the
   # HoH all the way to Species!
 
-#end
+end
 
 
 def naming_system 
